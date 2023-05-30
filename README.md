@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Software Developer, currently in a fellowship at General Assembly.<br>At this moment I am focused on learning Python, a SQL database, and the Django framework. 
+I am a passionate Software Developer, currently in a fellowship at General Assembly.At this moment I am focused on learning Python, a SQL database, and the Django framework. 
 
 
 ## 🌐 Socials:
