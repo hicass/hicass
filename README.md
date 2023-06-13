@@ -1,5 +1,5 @@
 # ✩ About Me:
-I am a passionate Software Developer, currently in a fellowship at General Assembly. At this moment I am focused on learning Python, the Django framework, and creating app that uses the two technologies called [Plant Collector](https://github.com/hicass/plantcollector).
+I am a passionate Software Developer, currently in a fellowship at General Assembly. At this moment I am focused on learning the React library and plan on building a MERN-stack project.
 
 
 ## 》 Socials:
