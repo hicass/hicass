@@ -1,5 +1,5 @@
 # ✩ About Me:
-I am a passionate Software Developer, currently in a fellowship at General Assembly. At this moment I am focused on learning the React library and plan on building a MERN-stack project.
+I am a software developer who strives to create inspiring products inside and out. I view coding as an art form, where every line of code has the potential to be elegant and expressive. My passion for developing high-quality digital experiences drives me to learn and grow as a developer daily.
 
 
 ## 》 Socials:
