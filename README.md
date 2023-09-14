@@ -1,6 +1,6 @@
 <img width="1183" alt="Intro Image" src="https://github.com/hicass/hicass/assets/27751166/a53929b3-1c87-49cd-b04e-1d814636bb68">
 
-<img width="70" alt="Smiley face" src="https://github-production-user-asset-6210df.s3.amazonaws.com/27751166/268115953-3170a45c-4e27-4314-9cc7-b99b7afe1bb8.png">
+<h2 display='flex' flex-direction='row' align-items='center'><img width="70" alt="Smiley face" src="https://github-production-user-asset-6210df.s3.amazonaws.com/27751166/268115953-3170a45c-4e27-4314-9cc7-b99b7afe1bb8.png">About Me:</h2>
 I am a software developer who strives to create inspiring products inside and out. I view coding as an art form, where every line of code has the potential to be elegant and expressive. My passion for developing high-quality digital experiences drives me to learn and grow as a developer daily. Currently designing and developing a modern, user-friendly website for Tag Ops, a company specializing in operational support. Implementing responsive design, clear pricing structures, and seamless user engagement features.
 
 ## 》 Tech Stack:
