@@ -1,5 +1,3 @@
-![IMG_0060](https://github.com/hicass/hicass/assets/27751166/6bcfcb12-5689-4925-a748-704dfe0a5dac)
-
 ## ✩ About Me:
 I am a software developer who strives to create inspiring products inside and out. I view coding as an art form, where every line of code has the potential to be elegant and expressive. My passion for developing high-quality digital experiences drives me to learn and grow as a developer daily. Currently designing and developing a modern, user-friendly website for Tag Ops, a company specializing in operational support. Implementing responsive design, clear pricing structures, and seamless user engagement features.
 
