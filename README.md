@@ -1,4 +1,3 @@
-## Intro  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/27751166/268117196-a53929b3-1c87-49cd-b04e-1d814636bb68.png" align="center" height="" width="600" />
 </div>  
@@ -63,21 +62,17 @@
 <br/>  
 
 
-## Github Stats  
+## Fun Stuff!  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicass&hide_border=true&layout=compact" align="left" />
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-### Jams  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=callistona&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+
+</td></tr></table>
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
