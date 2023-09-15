@@ -3,22 +3,32 @@
 </div>  
   
 
+<br/>  
+
+
+## About Me  
+<table><tr><td valign="top" width="50%">
+
 <div align="center">
-<img src="https://camo.githubusercontent.com/4f7d7ecdd8886f9ac84aafbc66e66b48d8613ee692300614d16055a2d359bc82/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f32373735313136362f3236383131353935332d33313730613435632d346532372d343331342d396363372d6239396237616665316262382e706e67" align="center" height="" width="120" />
+<img src="https://camo.githubusercontent.com/4f7d7ecdd8886f9ac84aafbc66e66b48d8613ee692300614d16055a2d359bc82/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f32373735313136362f3236383131353935332d33313730613435632d346532372d343331342d396363372d6239396237616665316262382e706e67" align="center" style="width: 100%" />
 </div>  
+
+
+</td><td valign="top" width="50%">
+
+✎ I’m currently working on a website for [Tag Ops](https://github.com/hicass/tag-ops), a company that specializes in operational support.   
   
 
-✎ I’m currently working on [Tag Ops](https://github.com/hicass/tag-ops), a website for a company that specializes in operational support.   
-  
-
-✧ Check out my [portfolio!](https://www.hicass.dev/)😁  
+✧ Check out my [portfolio!](https://www.hicass.dev/)  
   
 
 ✑ Reach me at hicass.dev@gmail.com  
   
 
 *☺ Fun fact: I love react!!!*  
-  
+
+
+</td></tr></table>  
 
 <br/>  
 
