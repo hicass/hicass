@@ -8,7 +8,6 @@
 
 ## About Me  
 <div align="center">
-    ![Untitled_Artwork 13]()
 <img src="https://github.com/hicass/hicass/assets/27751166/bc5517d8-9706-49a7-ac8f-d739178b1d8c" align="center" height="" width="100" />
 </div>  
   
