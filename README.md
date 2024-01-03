@@ -8,7 +8,8 @@
 
 ## About Me  
 <div align="center">
-<img src="https://camo.githubusercontent.com/4f7d7ecdd8886f9ac84aafbc66e66b48d8613ee692300614d16055a2d359bc82/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f32373735313136362f3236383131353935332d33313730613435632d346532372d343331342d396363372d6239396237616665316262382e706e67" align="center" height="" width="100" />
+    ![Untitled_Artwork 13]()
+<img src="https://github.com/hicass/hicass/assets/27751166/bc5517d8-9706-49a7-ac8f-d739178b1d8c" align="center" height="" width="100" />
 </div>  
   
 
@@ -19,7 +20,7 @@
   
 
 ✧ Check out my [portfolio!](https://www.hicass.dev/)   
-  
+
 
 ✑ Reach me at hicass.dev@gmail.com    
   
