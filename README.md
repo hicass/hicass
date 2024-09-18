@@ -1,20 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/27751166/268117196-a53929b3-1c87-49cd-b04e-1d814636bb68.png" align="center" height="" width="600" />
+  <img width="1420" alt="Screen Shot 2024-09-17 at 7 50 28 PM" src="https://github.com/user-attachments/assets/18f9c822-66b4-4c06-8892-62a42ee67c0f">
 </div>  
   
-
-<br/>  
-
-
-## About Me  
-<div align="center">
-<img src="https://github.com/hicass/hicass/assets/27751166/bc5517d8-9706-49a7-ac8f-d739178b1d8c" align="center" height="" width="100" />
-</div>  
-  
-
-
-
-### What am I up to?  
+## What am I up to?  
 ✎ I’m currently working on a website for [Tag Ops](https://github.com/hicass/tag-ops-v3), a company that specializes in operational support.   
   
 
