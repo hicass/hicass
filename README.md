@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1321" alt="Screen Shot 2024-12-09 at 8 10 16 PM" src="https://github.com/user-attachments/assets/61b95968-386e-4529-be05-c1fa5dc0a69c">
+  <img width="1381" alt="Screen Shot 2024-12-10 at 11 40 24 AM" src="https://github.com/user-attachments/assets/ef3cfea3-930a-4662-81dd-816bb6176feb">
 </div>
 
 
