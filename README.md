@@ -1,10 +1,7 @@
 <div align="center">
-  <img width="1420" alt="Screen Shot 2024-09-17 at 7 50 28 PM" src="https://github.com/user-attachments/assets/18f9c822-66b4-4c06-8892-62a42ee67c0f">
-</div>  
-  
-## What am I up to?  
-✎ I’m currently working on a website for [Tag Ops](https://github.com/hicass/tag-ops-v3), a company that specializes in operational support.   
-  
+  <img width="1321" alt="Screen Shot 2024-12-09 at 8 10 16 PM" src="https://github.com/user-attachments/assets/61b95968-386e-4529-be05-c1fa5dc0a69c">
+</div>
+
 
 ✧ Check out my [portfolio!](https://www.hicass.dev/)   
 
