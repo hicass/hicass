@@ -1,7 +1,6 @@
 <div align="center">
-  <img width="1381" alt="Screen Shot 2024-12-10 at 11 40 24 AM" src="https://github.com/user-attachments/assets/ef3cfea3-930a-4662-81dd-816bb6176feb">
+  <img width="1381" alt="Screen Shot 2025-01-24 at 4 17 42 PM" src="https://github.com/user-attachments/assets/4de26477-d23e-4eae-8bd3-49b398066bda" />
 </div>
-
 
 ✧ Check out my [portfolio!](https://www.hicass.dev/)   
 
